@@ -1,6 +1,10 @@
-#!/bin/sh -x
+#!/bin/bash
+#set -e
+#set -u
+#set -o pipefail
+
 # ------------------------------------------------------------------
-# [staehlo-2018-04-20] script001.sh
+# [staehlo-2018-04-20] 1_bash_script.sh
 #			Downloading data from UN repositories.
 #			Preparing data for R analysis
 # ------------------------------------------------------------------

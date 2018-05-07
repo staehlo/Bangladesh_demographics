@@ -1,6 +1,7 @@
 ---
-title: "script002.R"
-output: html_document
+title: "2_R_markdown_script.Rmd"
+output:	html_document = 3_knitr_results.html
+		PDF document = 3_knitr_results.pdf
 date: 2018-04-20
 ---
 

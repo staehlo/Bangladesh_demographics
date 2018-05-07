@@ -101,7 +101,9 @@ R version:
 
 ### Download and prepare data <a name="Download_data"></a>
 
-See bash script *script001.sh*
+See bash script:
+
+*1_bash_script.sh*
 
 Use Bash to:
 
@@ -114,7 +116,7 @@ Use Bash to:
 
 See knitR document (and corresponding html and PDF file):
 
-script002.Rmd
+*2_R_markdown_script.Rmd*
 
 
 ## Acknowledgments <a name="Acknowledgements"></a>
