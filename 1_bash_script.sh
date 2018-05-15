@@ -4,7 +4,8 @@
 #set -o pipefail
 
 # ------------------------------------------------------------------
-# [staehlo-2018-04-20] 1_bash_script.sh
+# 			staehlo 2018-04-20
+#			1_bash_script.sh
 #			Downloading data from UN repositories.
 #			Preparing data for R analysis
 # ------------------------------------------------------------------

@@ -1,16 +1,15 @@
 # Short analysis of Bangladesh's demographics
 
---[staehlo]--\
---[2018-04-20]--\
+staehlo - 2018-04-20\
 \
 In 2013, the BBC aired a documentary with the titel *"Don't panic - The Truth about Population"*.
 In it, the late Dr. Hans Rosling (1948 - 2017) claimed that Bangladesh is a role model of a country that has successfully managed to bridle its out-of-control human population growth.
 
 This project is a short analysis to reassess Rosling's prediction. It will be based on data from the *Population Division* of the *Department of Economic and Social Affairs* of the *United Nations*.
 
-And on the fly, it serves also as an execice in:
+And on the fly, it serves also as an exercise in:
 
-- retrieving open-access data from a public soucre
+- retrieving open-access data from a public source
 - plotting data
 - making basic projections based on data
 
